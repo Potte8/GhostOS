@@ -1,7 +1,7 @@
-# Git ignore file for GhostOS
+# Ignoriere Build-Dateien und temporäre Dateien
 *.o
+*.elf
 *.exe
-*.bin
-build/
+*.log
+*.tmp
 .DS_Store
-Thumbs.db
