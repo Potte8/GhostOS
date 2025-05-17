@@ -1,0 +1,3 @@
+[INFO] GhostOS booted
+[WARN] No GPS module detected
+[ERROR] Wifi scan crash at module_wifi.c:118
