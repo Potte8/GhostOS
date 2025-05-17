@@ -32,7 +32,6 @@ bool log_manager_load_log(const char* filename) {
 }
 
 void log_manager_filter_logs(const char* level) {
-    // Beispiel: einfache Filterausgabe in der Konsole
     if (!current_log) return;
 
     char* line = strtok(current_log, "\n");
