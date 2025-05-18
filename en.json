@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to GhostOS",
+  "warning": "Warning: For testing purposes only!",
+  "menu_settings": "Settings",
+  "menu_tools": "Tools",
+  "log_viewer": "Log Viewer",
+  "exit": "Exit"
+}
