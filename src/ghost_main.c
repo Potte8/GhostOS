@@ -1,3 +1,4 @@
+#include "src/ui_main_menu.h"
 #include "debug.h"
 
 int main(void) {
